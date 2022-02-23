@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/preetan-goud-7b3449197/)](https://www.linkedin.com/in/preetan-goud-7b3449197/)
+[![Linkedin Badge](https://img.shields.io/badge/-Preetan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/preetan-goud-7b3449197/)](https://www.linkedin.com/in/preetan-goud-7b3449197/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Preetan-green)](https://www.Preetan)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Preetan-yellow)](https://stackoverflow.com/users/18285817/preetan-goud)
 
